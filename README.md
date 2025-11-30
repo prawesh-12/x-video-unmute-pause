@@ -31,7 +31,9 @@
 
 ## 🖥️ Preview
 
-> 
+<p align="center">
+  <img src="assets/preview.gif" width="600">
+</p>
 
 ---
 
