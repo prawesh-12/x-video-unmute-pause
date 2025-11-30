@@ -1,6 +1,9 @@
 # 🎧 X.com Video Unmute & Pause
 
-Control x.com videos using your keyboard, no mouse needed.
+> Control x.com videos using your keyboard, no mouse needed.
+
+---
+### By default, this extension unmutes all videos on X.com (Twitter).
 
 ---
 
